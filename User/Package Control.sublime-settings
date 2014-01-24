@@ -4,6 +4,7 @@
 	[
 		"CoffeeScript",
 		"Emmet",
+		"JSHint Gutter",
 		"LESS",
 		"Package Control",
 		"SublimeREPL",
