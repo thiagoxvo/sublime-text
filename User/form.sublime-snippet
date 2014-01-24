@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<form id="${1}" name="${2}" action="${3}" method="post" enctype="multipart/form-data">
+	<input id="submit_button" name="submit_button" type="submit" value="Submit" />
+</form>
+]]></content>
+	<tabTrigger>form</tabTrigger>
+	<description>form</description>
+</snippet>

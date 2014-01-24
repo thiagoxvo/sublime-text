@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<table>
+	<tr>
+		<td>${1}</td>
+	</tr>
+</table>
+]]></content>
+	<tabTrigger>table</tabTrigger>
+	<description>table</description>
+</snippet>

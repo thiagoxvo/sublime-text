@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<a href="${1}"></a>
+]]></content>
+	<tabTrigger>href</tabTrigger>
+	<description>href</description>
+</snippet>

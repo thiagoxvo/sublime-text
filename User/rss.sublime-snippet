@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<link rel="alternate" type="application/rss+xml" title="${1}" href="${2}" />
+]]></content>
+	<tabTrigger>rss</tabTrigger>
+	<description>rss</description>
+</snippet>
+

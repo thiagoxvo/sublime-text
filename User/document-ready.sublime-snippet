@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[\$(document).ready(function() \{
+	$0
+\});]]></content>
+	<tabTrigger>$ready</tabTrigger>
+	<scope>source.js,source.js.embedded.html</scope>
+	<description>$ready</description>
+</snippet>

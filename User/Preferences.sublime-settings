@@ -1,0 +1,17 @@
+{
+	"color_scheme": "Packages/zenburn/zenburn.tmTheme",
+	"file_exclude_patterns":
+	[
+		"app/*.js",
+		"*.DS_Store"
+	],
+	"font_size": 16.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"tab_size": 2,
+	"theme": "Phoenix Dark.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

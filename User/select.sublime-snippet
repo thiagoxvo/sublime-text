@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<select name="${1}" id="${1}">
+	<option value="" selected="selected"></option>
+	<option value=""></option>
+</select>
+]]></content>
+	<tabTrigger>select</tabTrigger>
+	<description>select</description>
+</snippet>
